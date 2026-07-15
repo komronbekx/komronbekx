@@ -1,69 +1,116 @@
 <h1 align="center">
-  Hi 👋, I'm Komronbek Xusniddinov
+Hey 👋 I'm Komronbek Xusniddinov
 </h1>
 
-## 👨‍💻 About Me
-
-- 🔭 I'm a **Python Backend Developer** focused on building clean, scalable web APIs
-- 🌱 I work with **Django**, **DRF**, **FastAPI** and modern deployment tools
-- ⚡ I enjoy turning complex business logic into elegant backend systems
-- 📍 Based in **Uzbekistan**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### 🔧 Version Control
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xusniddinovk1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xusniddinovk1&theme=tokyonight&hide_border=true" width="60%" />
+Backend Engineer • Python • Django • FastAPI
+<br>
+Building software that is reliable today and maintainable tomorrow.
 </p>
 
 ---
 
-## 📬 Contact Me
+## Who am I?
+
+I'm a backend developer from Uzbekistan who enjoys solving real-world problems with code.
+
+I don't believe the best software is the one with the most features.
+I believe it's the one people can trust.
+
+Most of my work revolves around designing APIs, building scalable backend services, improving database performance, and making complex systems feel simple.
+
+Outside programming, I'm constantly learning, experimenting, and trying to become a better engineer than I was yesterday.
+
+---
+
+## What I'm Working On
+
+- 🚀 Building backend applications with Django & FastAPI
+- ⚙️ Designing scalable REST APIs
+- 🐳 Improving deployment workflows with Docker & Nginx
+- 📚 Learning system design, distributed systems and DevOps
+- 🌍 Looking for opportunities to contribute to meaningful products
+
+---
+
+## Tech I Enjoy Working With
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,linux,git,github,gitlab,postman,vscode" />
+</p>
+
+---
+
+## Philosophy
+
+```python
+while alive:
+    learn()
+    build()
+    improve()
+    share()
+```
+
+I write code for humans first, computers second.
+
+Clean architecture, meaningful names, readable code, and continuous learning are things I genuinely care about.
+
+---
+
+## Featured Interests
+
+- Backend Architecture
+- REST API Design
+- Performance Optimization
+- PostgreSQL
+- Docker
+- Open Source
+- Software Engineering
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/xusniddinovk1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/xusniddinovk">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/komronbek-xusniddinov">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xusniddinovk1&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## A Small Reminder
+
+> Great software isn't built by writing more code.
+>
+> It's built by understanding the problem first.
+
+---
+
+## Let's Connect
+
+<p align="left">
+
+<a href="https://t.me/xusniddinovk" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" />
 </a>
+
+
+<a href="https://linkedin.com/in/komronbek-xusniddinov">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+
+
+<a href="mailto:komronbekx1@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Still learning. Still building. One commit at a time."</i>
+
 </p>
