@@ -73,7 +73,7 @@ Clean architecture, meaningful names, readable code, and continuous learning are
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xusniddinovk1&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komronbekx&theme=github-dark&hide_border=true"/>
 
 </p>
 
