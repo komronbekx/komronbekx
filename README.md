@@ -14,9 +14,6 @@ Building software that is reliable today and maintainable tomorrow.
 
 I'm a backend developer from Uzbekistan who enjoys solving real-world problems with code.
 
-I don't believe the best software is the one with the most features.
-I believe it's the one people can trust.
-
 Most of my work revolves around designing APIs, building scalable backend services, improving database performance, and making complex systems feel simple.
 
 Outside programming, I'm constantly learning, experimenting, and trying to become a better engineer than I was yesterday.
@@ -33,7 +30,7 @@ Outside programming, I'm constantly learning, experimenting, and trying to becom
 
 ---
 
-## Tech I Enjoy Working With
+## Tech I Working With
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,linux,git,github,gitlab,postman,vscode" />
