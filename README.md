@@ -3,7 +3,7 @@ Hey 👋 I'm Komronbek Xusniddinov
 </h1>
 
 <p align="center">
-Backend Engineer • Python • Django • FastAPI
+Backend Engineer • Python • Django
 <br>
 Building software that is reliable today and maintainable tomorrow.
 </p>
@@ -12,11 +12,11 @@ Building software that is reliable today and maintainable tomorrow.
 
 ## Who am I?
 
-I'm a backend developer from Uzbekistan who enjoys solving real-world problems with code.
+My name is Komronbek.I'm a backend developer from Uzbekistan
 
 Most of my work revolves around designing APIs, building scalable backend services, improving database performance, and making complex systems feel simple.
 
-Outside programming, I'm constantly learning, experimenting, and trying to become a better engineer than I was yesterday.
+Outside programming, I'm constantly learning, experimenting, and trying to become a better engineer.
 
 ---
 
@@ -63,16 +63,6 @@ Clean architecture, meaningful names, readable code, and continuous learning are
 - Docker
 - Open Source
 - Software Engineering
-
----
-
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=komronbekx&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
